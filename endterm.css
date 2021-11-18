@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(./img/photo-1542751371-adc38448a05e.jpg);
+  background-image: url(./img/662812.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -41,7 +41,7 @@ body {
   right: 0;
   top: 0;
   height: 100%;
-  width: 600px;
+  width: 500px;
 }
 
 .main {
@@ -50,12 +50,12 @@ body {
 }
 .main h1 {
   color: white;
-  font-size: 400%;
+  font-size: 500%;
 }
 .main p {
   width: 40%;
   color: white;
-  margin-left: 450px;
+  margin-left: 470px;
 }
 .read {
   margin-top: 10px;
